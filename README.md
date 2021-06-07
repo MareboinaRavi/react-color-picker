@@ -1,3 +1,3 @@
-#### Values JS
+##Color Picker react App
 
-[values.js](https://github.com/noeldelgado/values.js)
+[Live Demo here](https://mareboina.netlify.app/)
